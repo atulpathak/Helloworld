@@ -1,0 +1,4 @@
+public class myEmployee{
+String name;
+byte age;
+}

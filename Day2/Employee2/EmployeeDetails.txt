@@ -1,0 +1,11 @@
+import java.util.Scanner
+public class EmployeeDetails{
+publlic static void main(String[] args){
+
+
+scanner sc=new scanner(system.in);
+system.out.println("enter the city");
+c=sc.nextLine();
+
+Employee emp=new Employee(c);
+}
